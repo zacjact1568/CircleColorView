@@ -1,0 +1,13 @@
+<resources>
+
+    <declare-styleable name="CircleColorView">
+        <attr name="fillColor" format="color"/>
+        <attr name="edgeWidth" format="dimension"/>
+        <attr name="edgeColor" format="color"/>
+        <attr name="innerText" format="string"/>
+        <attr name="innerTextColor" format="color"/>
+        <attr name="innerIcon" format="reference"/>
+        <attr name="innerIconTintColor" format="color"/>
+    </declare-styleable>
+
+</resources>
