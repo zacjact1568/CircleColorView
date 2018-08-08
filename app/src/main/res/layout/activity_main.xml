@@ -7,10 +7,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <me.imzack.lib.circlecolorview.CircleColorView
+    <net.zackzhang.lib.circlecolorview.CircleColorView
+        android:id="@+id/ccv"
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_gravity="center"
+        android:clickable="true"
+        android:focusable="true"
         app:fillColor="@color/colorAccent"
         app:edgeColor="@color/colorPrimary"
         app:edgeWidth="1dp"

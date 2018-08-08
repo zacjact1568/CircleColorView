@@ -1,8 +1,1 @@
-<manifest
-    package="me.imzack.lib.circlecolorview">
-
-    <application>
-
-    </application>
-
-</manifest>
+<manifest package="net.zackzhang.lib.circlecolorview"/>
